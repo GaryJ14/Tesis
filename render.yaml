@@ -19,7 +19,7 @@ services:
       - key: SECRET_KEY
         generateValue: true
       - key: ALLOWED_HOSTS
-        value: tesis-3t01.onrender.com
+        value: tesis-7eay.onrender.com
 
 
 
